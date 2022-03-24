@@ -1,0 +1,3 @@
+- 👋 Hi, I’m wieloryb/cxw
+- 👀 I’m interested in my friend
+- 🌱 I’m currently learning Python!
